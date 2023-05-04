@@ -9,7 +9,7 @@ print(perimeter, square, diagonal)
 a = 5
 b = 7
 c = 2
-D = b ** 2 - 4 * a * c  # Дискриминант должен быть больше нуля
+D = b ** 2 - 4 * a * c  # Диsdvbgasdbgfrsefrhнант должен быть больше нуля
 x1 = (-b + D ** 0.5) / 2 * a
 x2 = (-b - D ** 0.5) / 2 * a
 print(x1, x2)
